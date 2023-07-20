@@ -8,5 +8,7 @@
 This support is only compatible with the last generation of BlueflyVario V23
 Link of BlueFlyVario : https://www.blueflyvario.com/
 
+Support should be printed in ABS with more than 60% of infill.
+
 Still in developpement. First versions are not enough strong. 
 Tests are still in progress...
