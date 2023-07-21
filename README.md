@@ -2,7 +2,8 @@
 
 3D printed Support for BlueFlyVario.
 
-![image](https://github.com/ogle650/BlueFlyVario3Dsupport/assets/47299916/5ca2f709-9dec-45fe-b018-0648977bd2e5)
+![image](https://github.com/ogle650/BlueFlyVario3Dsupport/assets/47299916/8e4d80ac-a8c3-4a04-8a1f-e896b94c37c0)
+
 
 
 This support is only compatible with the last generation of BlueflyVario V23
